@@ -1,6 +1,5 @@
 import PicoPlaca.PicoyPlaca;
 import PicoPlaca.Plate;
-
 import java.time.LocalDateTime;
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
